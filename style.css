@@ -1,0 +1,19 @@
+.clock {
+    width: 400px;
+    background-color: #2a3a54;
+    padding: 30px;
+    color: seashell;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+}
+
+.clock .time {
+    font-size: 64px;
+    margin: 0 auto;
+}
+
+.clock .date {
+    font-size: 24px;
+    margin: 0 auto;
+}
